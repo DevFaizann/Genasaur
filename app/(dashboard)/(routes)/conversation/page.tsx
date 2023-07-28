@@ -110,7 +110,7 @@ const ConversationPage = () => {
         <div className="space-y-4 mt-4">
           {messages.length === 0 && !isLoading && (
             <div>
-              {/* <Empty/> */}
+              <Empty label="No conversation started"/>
             </div>
           )}
           <div className="flex flex-col-reverse gap-y-4">
