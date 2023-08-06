@@ -24,10 +24,12 @@ import { Loader } from "@/components/loader";
 import { UserAvatar } from "@/components/user-avatar";
 import { BotAvatar } from "@/components/bot-avatar";
 import { cn } from "@/lib/utils";
+import { useProModal } from "@/hooks/use-pro-modal";
 
 import { formSchema } from "./constants";
 
 const CodePage = () => {
+  const proModal = useProModal();
   const router = useRouter();
   const [messages, setMessages] = useState<ChatCompletionRequestMessage[]>([]);
   const form = useForm<z.infer<typeof formSchema>>({
@@ -56,7 +58,9 @@ const CodePage = () => {
 
       form.reset();
     } catch (error:any) {
-      //TODO: open pro modal
+      if(error?.response?.status === 403){
+        proModal.onOpen();
+      }
       console.log("right here",error);
     } finally{
       router.refresh();
