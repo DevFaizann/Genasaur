@@ -14,7 +14,7 @@ Genasaur is built on top of the OpenAI and Replicate APIs. If you're interested 
 It's like having a digital muse that never takes a coffee break. Need ideas? Genasaur's got you covered. Need creativity on tap? Genasaur's got that too. It's AI with a touch of magic – just don't ask it for a card trick!
 
 ## Installation
-Currently, Genasaur is a web-based platform and does not require any installation. Simply visit the official website at [Genasaur](https://www.genasaur.vercel.app) to access the platform. 
+Currently, Genasaur is a web-based platform and does not require any installation. Simply visit the official website at [Genasaur](https://genasaur.vercel.app) to access the platform. 
 However, if you wish to make any contributions to the project you might wanna set it up locally -
 
 First, run the development server:
