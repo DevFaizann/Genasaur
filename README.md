@@ -29,10 +29,29 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## Repo Activity
+
+![Activity](https://repobeats.axiom.co/api/embed/ba46aeca8f890f1e46cb4745c06d5e131a222f2b.svg "Repobeats analytics image")
+
+## Features
+- **Prompt Transformation:** Genasaur allows you to input prompts and receive diverse outputs. You can use it to generate textual content, images, audio, video, and even code snippets.
+
+- **OpenAI Integration:** Genasaur integrates with the OpenAI API, enabling you to tap into cutting-edge language models for text generation and coding solutions.
+
+- **Replicate Integration:** In addition to OpenAI, Genasaur utilizes the Replicate API to enhance its capabilities, providing an array of creative solutions for different use cases such as image, video, and audio generations.
+
+- **User-Friendly Interface:** The platform is designed with simplicity in mind, making it easy for both technical and non-technical users to interact with and generate various outputs.
+
+## Usage
+1. **Signup/Login:** To start using Genasaur, you need to create an account on the platform. If you're new, click on the "Sign Up" button and provide the necessary information. If you're already a user, simply log in using your existing credentials.
+
+2. **Dashboard:** Once logged in, you'll be directed to your personal dashboard. This is your control center where you can play around!
+
+3. **Generating Output:** After submitting your prompt, Genasaur will process your request and provide you with the generated output. For free users, the first five generations are on the house, giving you a chance to explore the platform's capabilities.
+
+4. **Pro Plan:** If you find Genasaur valuable and want to harness its full potential, consider upgrading to our Pro plan. This plan unlocks unlimited generations and gives you access to advanced features. Visit your account settings to explore the Pro plan options.
+
 ## Contributing
-
-![Alt](https://repobeats.axiom.co/api/embed/ba46aeca8f890f1e46cb4745c06d5e131a222f2b.svg "Repobeats analytics image")
-
 Contributions to Genasaur are welcome! Whether you want to improve the code, add new features, or fix bugs, your contributions are valuable. We appreciate community involvement. Here's how you can get started: 
 
 1. **Fork the Repository:** Start by forking the Genasaur repository to your own GitHub account.
@@ -67,24 +86,6 @@ Contributions to Genasaur are welcome! Whether you want to improve the code, add
 8. **Code Review:** Your pull request will be reviewed by the maintainers. Address any feedback or changes requested.
 
 9. **Merge:** Once your pull request is approved, it will be merged into the main codebase. Congratulations on your contribution!
-
-## Features
-- **Prompt Transformation:** Genasaur allows you to input prompts and receive diverse outputs. You can use it to generate textual content, images, audio, video, and even code snippets.
-
-- **OpenAI Integration:** Genasaur integrates with the OpenAI API, enabling you to tap into cutting-edge language models for text generation and coding solutions.
-
-- **Replicate Integration:** In addition to OpenAI, Genasaur utilizes the Replicate API to enhance its capabilities, providing an array of creative solutions for different use cases such as image, video, and audio generations.
-
-- **User-Friendly Interface:** The platform is designed with simplicity in mind, making it easy for both technical and non-technical users to interact with and generate various outputs.
-
-## Usage
-1. **Signup/Login:** To start using Genasaur, you need to create an account on the platform. If you're new, click on the "Sign Up" button and provide the necessary information. If you're already a user, simply log in using your existing credentials.
-
-2. **Dashboard:** Once logged in, you'll be directed to your personal dashboard. This is your control center where you can play around!
-
-3. **Generating Output:** After submitting your prompt, Genasaur will process your request and provide you with the generated output. For free users, the first five generations are on the house, giving you a chance to explore the platform's capabilities.
-
-4. **Pro Plan:** If you find Genasaur valuable and want to harness its full potential, consider upgrading to our Pro plan. This plan unlocks unlimited generations and gives you access to advanced features. Visit your account settings to explore the Pro plan options.
 
 ## For more information
 Reach out ~
